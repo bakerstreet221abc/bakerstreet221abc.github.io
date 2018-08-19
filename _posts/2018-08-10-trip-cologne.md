@@ -12,7 +12,7 @@ introduction: "Cologne is a place with rich cultural heritages"
 
 Author: Sholmes
 
-Cologne is a place with rich cultural heritages, and it has been a long time since I wrote a blog about the place I travelled to. This time I really want to write something about Cologne, because it has greatly impressed me.
+Cologne is a place with rich cultural heritages, and it has been a long time since I wrote a blog about the place I travelled to. This time I really want to write something about Cologne.
 
 ## The Dom
 
