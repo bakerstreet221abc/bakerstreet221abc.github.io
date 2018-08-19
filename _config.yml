@@ -1,7 +1,7 @@
 # Site Settings
 title: 贝克街221B | Baker Street 221B
 email: baker_street@yeah.net
-description: 追寻未知, 探寻真相.
+description: 追寻未知, 探求真相.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bakerstreet221abc.github.io/" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
