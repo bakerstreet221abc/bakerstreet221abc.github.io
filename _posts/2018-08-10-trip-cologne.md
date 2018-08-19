@@ -2,6 +2,7 @@
 layout: post
 title: "A trip in Cologne"
 description: 'It has been a long time since I wrote a blog about the place I travelled to. This time I really want to write something about Cologne'
+image: '/assets/img/cologne_river.jpg'
 category: 'blog'
 tags:
 - 推理游记
