@@ -1,12 +1,13 @@
-# Website for Everything About Detective 
-![Cover Image](http://res.cloudinary.com/dm7h7e8xj/image/upload/v1505354182/jekflix-logo_mfngps.png)
+# Website for Everything About Detective
+
+Hello! 这是一个关于推理的网站，欢迎大家一起来参与建设~请fork和创建pull request~
 
 ## Setup
 
 1. Install Jekyll (use the command `gem install jekyll`)
 1. Fork the [Jekflix Template](https://github.com/thiagorossener/jekflix-template/fork)
 1. Clone the repo you just forked
-1. Edit `_config.yml` to personalize your site. 
+1. Edit `_config.yml` to personalize your site.
 1. Check out the sample posts in `_posts` to see examples for assigning category, tags, image and other YAML data
 1. Read the documentation below for further customization pointers and documentation
 1. Remember to compile your assets files with Gulp
@@ -90,7 +91,7 @@ You can use the `initpost.sh` to create your new posts. Just follow the command:
 
 The new file will be created at `_posts` with this format `date-title.md`.
 
-## Front-matter 
+## Front-matter
 
 When you create a new post, you need to fill the post information in the front-matter, follow this example:
 
