@@ -20,6 +20,6 @@ Hi~这里是由推理迷Ellery和Sholmes发起的`The Mystery Project`，介绍�
 
 ### Sholmes
 
-<img itemprop="image" class="img-rounded" src="http://res.cloudinary.com/dm7h7e8xj/image/upload/c_fill,h_200,w_200/v1504971955/neo_ruqszk.jpg" alt="Your Name" width="200">
+<img itemprop="image" class="img-rounded" src="http://sherlockholmes.com/wp/wp-content/uploads/2013/09/logo31.jpg" alt="Your Name" width="200">
 
 钟爱福尔摩斯的推理迷，喜欢周游世界，探访推理小说大师们的足迹，在推理杂志上发表了[《美国推理之旅》](https://goo.gl/68enY7)。
