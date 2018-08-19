@@ -2,7 +2,6 @@
 layout: post
 title: "A trip in Cologne"
 description: 'It has been a long time since I wrote a blog about the place I travelled to. This time I really want to write something about Cologne'
-image: '/assets/img/cologne.jpg'
 category: 'blog'
 tags:
 - 推理游记
@@ -33,7 +32,7 @@ Besides the Dom, the Rhine River was also very beautiful. I could never be bored
 
 I did not go into the Chocolate Museum, because the queue was too long. Instead, I visited `Wallraf-Richartz-Museum` to appreciate the impressionist paintings. There was a ongoing show about the paintings themed `The Seine`.
 
-## A detective novel writer 
+## A detective novel writer
 
 Frank Schätzing is a German writer born in Cologne, whose novels are more popular than Harry Potter in Germany. He has won the 2005 `Deutscher Krimi Preis`, which is the most prestigious prize for crime novels in Germany. His detective novels include `The Tyranny of the Butterfly` [media link](https://www.dw.com/en/best-selling-author-frank-sch%C3%A4tzing-creates-an-ai-dystopia-in-latest-thriller/a-43506188), which is set in California, involving the hottest topic nowadays: artificial intelligence.   
 
