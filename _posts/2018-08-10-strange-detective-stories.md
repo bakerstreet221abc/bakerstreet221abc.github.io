@@ -4,6 +4,9 @@ title: "'奇葩'推理小说推荐"
 description: '它们怪诞奇葩，不按套路出牌;它们偷梁换柱, 骗的你嫑嫑的'
 image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1504807239/morpheus_xdzgg1.jpg'
 category: 'blog'
+tags:
+- 推理推荐
+- 重口味
 twitter_text: "在大部分作品都比较“本分”的时候，市面上出现了一些“离经叛道”的作品。它们怪诞奇葩，不按套路出牌：你以为找到了真凶的时候，结果突然一个接一个反转，piapia打脸不要太疼......"
 introduction: "在大部分作品都比较“本分”的时候，市面上出现了一些“离经叛道”的作品。它们怪诞奇葩，不按套路出牌：你以为找到了真凶的时候，结果突然一个接一个反转，piapia打脸不要太疼......"
 ---
