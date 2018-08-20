@@ -15,6 +15,7 @@ Hi~这里是由推理迷Ellery和Sholmes发起的`The Mystery Project`，介绍�
 {% for author_id in site.data.authors.author_list %}
 {% assign author = site.data.authors[author_id] %}
 ### {{ author.name }} 
+<a herf='#{{author_id}}'>
 <img itemprop="image" class="img-rounded" src="{{ author.avatar }}" alt="{{ author.name }}" width="200">
 {{ author.long_tag }}
 {% endfor %}
