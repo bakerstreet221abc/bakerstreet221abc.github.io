@@ -4,6 +4,7 @@ title: "A trip in Cologne"
 description: 'It has been a long time since I wrote a blog about the place I travelled to. This time I really want to write something about Cologne'
 image: '/assets/img/cologne_river.jpg'
 category: 'blog'
+author: 'sholmes'
 tags:
 - 推理游记
 twitter_text: "Cologne is a place with rich cultural heritages"

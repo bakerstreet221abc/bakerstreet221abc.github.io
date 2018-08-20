@@ -4,6 +4,7 @@ title: "'奇葩'推理小说推荐"
 description: '它们怪诞奇葩，不按套路出牌;它们偷梁换柱, 骗的你嫑嫑的'
 image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1504807239/morpheus_xdzgg1.jpg'
 category: 'blog'
+author: 'ellery'
 tags:
 - 推理推荐
 - 重口味
