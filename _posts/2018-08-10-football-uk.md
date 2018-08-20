@@ -2,7 +2,7 @@
 layout: post
 title: "英国足球之旅"
 description: '推理与足球有着很多渊源，比如柯南中经常上演的足球暴击，柯南道尔爵士也曾当过守门员'
-image: '/assets/img/cologne_river.jpg'
+image: '/assets/img/man_u.jpg'
 category: 'blog'
 author: 'sholmes'
 tags:
