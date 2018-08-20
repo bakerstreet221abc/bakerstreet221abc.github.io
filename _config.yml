@@ -3,12 +3,12 @@ title: 贝克街221B | Baker Street 221B
 email: baker_street@yeah.net
 description: 追寻未知, 探求真相.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://bakerstreet221abc.github.io/" # the base hostname & protocol for your site
+url: "https://bakerstreet221abc.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-124253568-1"
 
 # User Settings
 username: 贝克街221B
-user_description: 追寻未知, 探寻真相.
+user_description: 追寻未知, 探求真相.
 disqus_username: disqus_jEsAeOuABa
 
 # Social Media
@@ -36,7 +36,7 @@ links:
     url: /
   - title: 关于贝克街
     url: /about/
-  - title: 联系我们
+  - title: 加入我们
     url: /contact/
 
 # Exclude my node related stuff
